@@ -1,0 +1,230 @@
+@media only screen and (max-width:1200px) {
+ul.headerMenu {
+    margin-left:140px;
+
+
+}
+    ment.style {
+}
+
+p.pictureText {
+    margin-left: 180px;
+    }
+    div.pictureImgBox {
+  
+    margin-left: 286px;
+}
+    div.underImgText {
+    margin-left: 199px;
+    }
+   div.aboutPicture {
+    height: 488px;
+    width: 475px;
+    margin-left: 52px;
+    margin-top: 120px;
+}
+    div.aboutText {
+    width: 481px;
+    height: 430px;
+    left: 389px;
+    top: 994px;
+}
+    p#aboutText {
+    height: 254px;
+    width: 443px;
+    font-size: 14px;
+    margin-top: 0px;
+    margin-left: 51px;
+}
+    h1#focusHeader {
+    top: 1734px;
+}
+    
+
+
+div.focusBlockWrapper {
+   
+    margin-left: 0px;
+    width: 1110px;
+   
+}
+    div.focusBlock {
+    width: 249px;
+    margin-left: 14px;
+}
+    h4.focusBlockHeader {
+   
+    font-size: 16px;
+  
+}
+    h2.focusVideoHeader {
+    
+    margin-left: 435px;
+}
+    img.focusVideoPlay {
+    
+    margin-left: 547px;
+}
+    p.focusUnderPlayText {
+    
+    margin-left: 519px;
+}
+    h1#portfolioHeader {
+    top: 3082px;
+}
+    div.portfolioBlockWrapper {
+    width: 100%;
+    
+    margin-left: 7px;
+    }
+    div.portfolioBlock {
+    
+    width: 336px;
+   
+}
+    
+
+
+h1#teamHeader {
+    top: 4447px;
+}
+    div.teamBlockWrapper {
+    width: 100%;
+    margin-left: 0px;
+}
+    div.teamBlock {
+    width: 230px;
+    
+}
+    div.teamBlockPhoto {
+    width: 223px;
+}
+    div.teamAboutAngle {
+    
+    top: 5042px;
+    left: 86px;
+   
+}
+    div.teamAboutBlock {
+   
+    width: 100%;
+  
+    
+   
+    margin-left: 14px;
+    
+}
+    ul#sprite {
+    
+    top: 5216px;
+    left: 968px;
+    
+}
+    img.teamPictureImg:first-child {
+    margin-left: 104px;
+}
+   p.teamPictureAboutText {
+   
+    margin-left: 128px;
+    font-size: 14px;
+   
+}
+    div.teamPictureSubImg:first-child {
+
+    margin-left: 129px;
+}
+    h1#workStepsHeader {
+    top: 6152px;
+}
+    div.workStepsSubBlock {
+
+    margin-left: 323px;
+}
+    div#workSteps4 {
+   
+    left: 599px;
+    
+}
+    div#workSteps2 {
+   
+    left: 599px;
+    
+}
+    h1#pricingHeader {
+    top: 7871px;
+    }
+    div#pricingBlock1.pricingBlock {
+    margin-left: 10px;
+}
+    div.pricingBlock {
+    width: 317px;
+}
+    div.priceImg {
+   
+    margin-left: 107px;
+    margin-top: 26px;
+   
+}
+    h1#testimonialsHeader {
+    top: 8918px;
+}
+    div#sliderPhoto {
+   
+    margin-top: 83px;
+    margin-left: 9px;
+   
+}
+    div#sliderText {
+    width: 677px;
+    top: 9182px;
+    left: 387px;
+   
+}
+    h1#selectUsHeader {
+    top: 9823px;
+}
+    div.selectUsBlockWrapper {
+   
+    margin-left: 13px;
+}
+    input#journeyButton.pictureButtons {
+    
+    margin-left: 607px;
+}
+    span#journey {
+    
+    top: 10620px;
+    margin-left: 270px;
+    
+}
+    div.blogWrapper {
+   
+    margin-left: 18px;
+}
+    div.blogRightBlock {
+    width: 453px;
+   
+}
+    h2#subs {
+    padding-top: 50px;
+    margin-left: 302px;
+    
+}
+    input#mail {
+    margin-left: 281px;
+   
+}
+    h1#getInTouchHeader {
+    top: 12458px;
+}
+    form#siteForm {
+    
+    margin-left: 209px;
+}
+    footer#foot {
+   
+    width: 1034px;
+   
+    margin-left: 10px;
+   
+}

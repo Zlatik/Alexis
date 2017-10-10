@@ -1,0 +1,185 @@
+@media only screen and (max-width:320px) {
+h1#focusHeader, h1#TeamHeader, h1#portfolioHeader, h1#teamHeader, h1#workStepsHeader, h1#pricingHeader, h1#testimonialsHeader, h1#selectUsHeader, h1#ourBlogHeader, h1#getInTouchHeader {
+    margin-left: 87px;
+    
+    }
+    h5 {
+    margin-left: 18px;
+}
+    ul.headerMenu{
+        display: none;
+    }
+p.pictureText {
+    
+    margin-left: 25px;
+   
+}
+    input.pictureButtons {
+    
+    margin-left: 69px;
+}
+    div.pictureImgBox{
+        display: none;
+    }
+    div.underImgText{
+        display: none;
+    }
+    div.aboutPicture{
+        display: none;
+    }
+
+
+section#about{
+    height: 100%;
+}
+div.aboutText {
+   
+    left: 64px;
+    
+}
+div.about {
+    height: 300px;
+}
+div.focusBlockWrapper {
+    margin-left: 44px;
+    
+}
+div.focusBlock {
+   
+   
+    margin-left: 0px;
+}
+div.portfolioBlockWrapper {
+
+    margin-left: 7px;
+ 
+}
+div.portfolioBlock{
+    width:300px;
+}
+div.portfolioBlock:first-child {
+    margin-left: 0px;
+}
+ div.portfolioBlock:nth-child(3) {
+                margin-left: 0px;
+            }
+            
+            div.portfolioBlock:nth-child(2) {
+                margin-left: 0px;
+            }
+            
+            div.portfolioBlock:nth-child(4) {
+                margin-top: 10px;
+                margin-left: 0px;
+            }
+            
+            div.portfolioBlock:nth-child(5) {
+                margin-left: 0px;
+                margin-top: 10px;
+            }
+            
+            div.portfolioBlock:nth-child(6) {
+                margin-left: 0px;
+                margin-top: 10px;
+            }
+            
+            div.portfolioBlock:nth-child(7) {
+                margin-top: 10px;
+                margin-left: 0px;
+            }
+            
+            div.portfolioBlock:nth-child(8) {
+                margin-top: 10px;
+                margin-left: 0px;
+            }
+            
+            div.portfolioBlock:nth-child(9) {
+                margin-top: 10px;
+                margin-left: 0px;
+            }
+div.teamBlockWrapper{
+    margin-left: 0px;;
+}
+div.teamBlock{
+    margin-left: 55px;
+}
+div.workStepsSubBlock{
+    display: none;
+}
+div#workSteps2{
+    left:14px;
+}
+div#workSteps4{
+    left:14px;
+}
+div.pricingBlock{
+    margin-left: 10px;
+    width: 297px;
+}
+div.priceImg {
+    margin-left: 94px;
+    
+}
+div#pricingBlock1.pricingBlock {
+    margin-left:10px;
+}
+div#sliderText {
+    width: 295px;
+    height: 335px;
+    top: 10456px;
+    left: 14px;
+}
+p#sliderMainText {
+    top: 18px;
+    left: 1px;
+    height: 189px;
+    width: 299px;
+    font-size: 12px;
+}
+div.selectUsBlockWrapper {
+    width: 100%;
+    margin-top: 0px;
+    margin-left: 60px;
+}
+div.selectUsBlock{
+    padding-left: 0px;;
+}
+input#journeyButton.pictureButtons {
+    margin-top: 1192px;
+    margin-left: 87px;
+}
+h2#subs {
+    padding-top: 9px;
+    margin-left: 23px;
+    font-size: 22px;
+}
+input#mail {
+    margin-left: 9px;
+    width: 146px;
+    height: 39px;
+}
+input.formInp {
+    width: 301px;
+    height: 50px;
+    margin-bottom: 26px;
+    margin-right: 27px;
+}
+form#siteForm {
+    width: 243px;
+    height: 460px;
+    margin-top: 60px;
+    margin-left: 4px;
+}
+textarea#formMes {
+    width: 304px;
+}
+footer{
+    display: none;
+}
+div.getInTouch {
+    height: 783px;
+}
+input#submitBtn {
+    margin-left: 61px;
+}
+}

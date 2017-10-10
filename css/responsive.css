@@ -1,0 +1,435 @@
+@media only screen and (max-width:740px) {
+            h1 {
+                font-size: 31px;
+            }
+    h5{
+        margin-left: 254px;
+        width:300px;
+        margin-top: 20px;
+    }
+    body{
+        overflow-x: hidden;
+    }
+            header {
+                width: 100%;
+                font-size: 11px;
+            }
+    img.subHeaderImg{
+        display: none;
+    }
+            h1#focusHeader,
+            h1#TeamHeader,
+            h1#portfolioHeader,
+            h1#teamHeader,
+            h1#workStepsHeader,
+            h1#pricingHeader,
+            h1#testimonialsHeader,
+            h1#selectUsHeader,
+            h1#ourBlogHeader,
+            h1#getInTouchHeader {
+                position: relative;
+                margin-top: 0px;
+                margin-left: 287px;
+                top:0px;
+                left:0px;
+            }
+            
+            div.picture {
+                width: 100%;
+                height: 300px;
+            }
+            
+            img.headerLogo,
+            ul.headerMenu,
+            nav.headerNav,
+            ul.headerMenu>li {
+                margin-top: 0px;
+                margin-left: 13px;
+            }
+            
+            div.picture {
+                width: 100%;
+                height: 300px;
+            }
+            
+            p.pictureText {
+                font-size: 26px;
+                text-align: left;
+                margin-left: 184px;
+                width: 409px;
+                height: 101px;
+            }
+            
+            input.pictureButtons {
+                margin-top: 0px;
+                margin-left: 254px;
+            }
+            
+            img.pictureImg:first-child {
+                padding-left: 0px;
+            }
+            
+            div.pictureImgBox {
+                margin-top: 13px;
+                margin-left: 136px;
+            }
+            
+            span.pictureTextElems {
+                margin-left: 8px;
+            }
+            
+            
+            img.pictureImg {
+                padding-left: 156px;
+            }
+            
+            div.underImgText {
+                margin-left: 20px;
+                margin-top: 10px;
+                font-size: 9px;
+            }
+            
+            p.pictureUnderImgText {
+                padding-left: 114px;
+            }
+            
+            p.pictureUnderImgText:nth-child(2) {
+                padding-left: 101px;
+            }
+            
+            p.pictureUnderImgText:first-child {
+                padding-left: 96px;
+            }
+            
+            div.aboutPicture {
+                height: 333px;
+                width: 233px;
+                margin-left: 158px;
+                margin-top: 0px;
+            }
+            
+            img.aboutTextPicture {
+                display: none;
+            }
+            
+            div.aboutText {
+                width: 241px;
+                height: 290px;
+                left: 294px;
+                top: 561px;
+            }
+            
+            h1#aboutTextHeader {
+                position: absolute;
+                top: 0px;
+                left: 1px;
+            }
+            
+            p#aboutText {
+                height: 238px;
+                width: 219px;
+                font-size: 11px;
+                margin-top: 50px;
+                margin-left: 23px;
+            }
+            
+            div.focus {
+                margin-top: 10px;
+                height: 1687px;
+                width: 100%;
+            }
+            
+            div.focusBlockWrapper {
+                margin-left: 60px;
+                width: 332px;
+                height: 355px;
+            }
+            
+            div.focusBlock {
+                float: none;
+                margin-top: 23px;
+                margin-left: 195px;
+            }
+            
+            div.focusVideo,
+            h2.focusVideoHeader,
+            img.focusVideoPlay,
+            img.focusVideoPlay {
+                display: none;
+            }
+            
+            div.portfolio {
+                width: 100%;
+                margin-top: 39px;
+                height: 2476px;
+            }
+            
+            div.portfolioBlockWrapper {
+                width: 348px;
+                margin-left: 52px;
+                margin-top: 17px;
+            }
+            
+            div.portfolioBlock {
+                height: 266px;
+                width: 344px;
+                margin-top: 10px;
+                float: none;
+                margin-left: 166px;
+            }
+            
+            div.portfolioBlock:nth-child(3) {
+                margin-left: 166px;
+            }
+            
+            div.portfolioBlock:nth-child(2) {
+                margin-left: 166px;
+            }
+            
+            div.portfolioBlock:nth-child(4) {
+                margin-top: 24px;
+                margin-left: 166px;
+            }
+            
+            div.portfolioBlock:nth-child(5) {
+                margin-left: 166px;
+                margin-top: 10px;
+            }
+            
+            div.portfolioBlock:nth-child(6) {
+                margin-left: 166px;
+                margin-top: 10px;
+            }
+            
+            div.portfolioBlock:nth-child(7) {
+                margin-top: 10px;
+                margin-left: 166px;
+            }
+            
+            div.portfolioBlock:nth-child(8) {
+                margin-top: 10px;
+                margin-left: 166px;
+            }
+            
+            div.portfolioBlock:nth-child(9) {
+                margin-top: 10px;
+                margin-left: 166px;
+            }
+            
+            div.team {
+                width: 100%;
+                margin-top: 190px;
+            }
+            
+            div.teamBlockWrapper {
+                width: 329px;
+                height: 1451px;
+                margin-top: 22px;
+                margin-left: 70px;
+                padding-top: 30px;
+            }
+            
+            div.teamBlock {
+                float: none;
+                margin-top: 10px;
+                margin-left: 180px;
+                
+            }
+            
+            div.teamAboutAngle,
+            div.teamAboutBlock,
+            h4#aboutBlock,
+            ul#sprite,
+            div.teamPicture {
+                display: none;
+            }
+            
+            div.workSteps {
+                width: 100%;
+                height: 1169px;
+            }
+            
+            div.workStepsBlock {
+                width: 297px;
+                height: 217px;
+            }
+            
+            img.workStepsImg {
+                margin-top: 8px;
+                margin-left: 13px;
+            }
+            
+            h2.workStepsHeader {
+                font-size: 23px;
+                top: 48px;
+                left: 70px;
+            }
+            
+            p.workStepsText {
+                width: 226px;
+                height: 21px;
+                margin-left: 68px;
+                font-size: 16px;
+            }
+            
+            div#workSteps1 {
+                top: 7187px;
+                left: 13px;
+            }
+            
+            div#workSteps2 {
+                top: 7421px;
+                left: 397px;
+            }
+            
+            div#workSteps3 {
+                top: 7664px;
+                left: 13px;
+            }
+            
+            div#workSteps4 {
+                top: 7906px;
+                left: 397px;
+            }
+            
+            div.workStepsSubBlock {
+                width: 259px;
+                height: 228px;
+                margin-left: 234px;
+            }
+            
+            div.pricing {
+                height: 2135px;
+                width: 100%;
+            }
+            
+           
+            
+            div.pricingBlock {
+                display: block;
+                margin-left: 211px;
+            }
+    div#pricingBlock1.pricingBlock{
+         margin-left: 211px;
+    }
+            
+            div.testimonials {
+                height: 600px;
+                width: 100%;
+            }
+    h1#testimonialsHeader,h5#testimSubHead{
+        color: black;
+    }
+   
+            
+            div#sliderPhoto {
+                display: none;
+            }
+            
+            div#sliderText {
+                width: 350px;
+                height: 335px;
+                top: 10456px;
+                left: 234px;
+            }
+            
+            img.sliderImg {
+                display: none;
+            }
+            
+            p#sliderMainText {
+                top: 18px;
+                left: 35px;
+                height: 169px;
+                width: 312px;
+                font-size: 13px;
+            }
+            
+            div.selectUs {
+                height: 1784px;
+                width: 100%;
+            }
+            
+            div.selectUsBlockWrapper {
+                width: 100%;
+                margin-top: 0px;
+                margin-left: 160px;
+            }
+            
+            div.selectUsBlock {
+                display: block;
+            }
+            
+            span#journey {
+                display: none;
+            }
+            
+            input#journeyButton.pictureButtons {
+                margin-top: 1192px;
+                margin-left: 287px;
+            }
+            
+            div.ourBlog {
+                height: 412px;
+                width: 100%;
+            }
+            
+            div.wrap,
+            div.wrapper {
+                display: none;
+            }
+    h2#subs{
+        padding-top: 9px;
+        margin-left:223px;
+        font-size:22px;
+    }
+    input#mail{
+        margin-left: 185px;
+        width: 190px;
+        height: 39px;
+    }
+    input#subsBtn{
+        width: 153px;
+        height: 39px;
+    }
+    div.getInTouch{
+        width: 100%;
+        height: 934px;
+    }
+    form#siteForm {
+    width: 343px;
+    height: 460px;
+    margin-top: 60px;
+    margin-left: 204px;
+}
+    textarea#formMes{
+        width: 343px;
+    }
+    input#submitBtn{
+        margin-left: 82px;
+    }
+    footer#foot {
+    width: 665px;
+    height: 128px;
+    margin-top: 150px;
+        margin-left: 42px;
+   
+}
+    p.alexis:first-child {
+    margin-left: 53px;
+    
+}
+    p.alexis {
+    margin-top: 5px;
+}
+    p.alexis:nth-child(2) {
+    margin-left: 28px;
+}
+    p.alexis:nth-child(3) {
+    margin-left: 24px;
+}
+    div.footLogo {
+    margin-left: 1px;
+    margin-top: 12px;
+}
+}
